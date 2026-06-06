@@ -15,6 +15,9 @@ namespace LibraryManagement.Forms
         public MainForm()
         {
             InitializeComponent();
+            this.Text = "Sistem de Evidență Bibliotecă";
+            this.Size = new Size(1200, 750);
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
     }
 }
