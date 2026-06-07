@@ -1,7 +1,7 @@
 ﻿using Microsoft.Data.SqlClient;
 using LibraryManagement.Helpers;
 
-namespace LibraryManagement.DAL
+namespace LibraryManagement.DataAccess
 {
     public class DatabaseConnection
     {

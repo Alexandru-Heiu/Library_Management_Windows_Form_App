@@ -1,8 +1,8 @@
 ﻿using Microsoft.Data.SqlClient;
-using LibraryManagement.DAL;
+using LibraryManagement.DataAccess;
 using LibraryManagement.Models;
 
-namespace LibraryManagement.BLL
+namespace LibraryManagement.BusinessLogic
 {
     public class ReportService
     {

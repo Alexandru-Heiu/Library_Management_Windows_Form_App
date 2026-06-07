@@ -1,4 +1,4 @@
-﻿namespace LibraryManagement.BLL
+﻿namespace LibraryManagement.BusinessLogic
 {
     public class ValidationException : Exception
     {

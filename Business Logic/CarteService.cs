@@ -1,8 +1,8 @@
-﻿using LibraryManagement.DAL;
+﻿using LibraryManagement.DataAccess;
 using LibraryManagement.Models;
 using System.ComponentModel.DataAnnotations;
 
-namespace LibraryManagement.BLL
+namespace LibraryManagement.BusinessLogic
 {
     public class CarteService
     {
