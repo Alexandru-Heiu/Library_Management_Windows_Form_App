@@ -1,6 +1,6 @@
 ﻿namespace LibraryManagement.Forms.Imprumuturi
 {
-    partial class ImprumuturiPanel
+    partial class ImprumutForm
     {
         private System.ComponentModel.IContainer components = null;
         protected override void Dispose(bool disposing)
